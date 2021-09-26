@@ -14,7 +14,7 @@
           "url": "https://raw.githubusercontent.com/CD30510023/3179repo/main/aqi_yearly_1980_to_2021.csv"
         },
         "key": "County",
-        "fields": ["Median AQI"]
+        "fields": ["Median.AQI"]
       }
     }
   ],
@@ -22,7 +22,7 @@
   "mark": "geoshape",
   "encoding": {
     "color": {
-      "field": "Median AQI",
+      "field": "Median.AQI",
       "type": "quantitative",
       "scale": {
         "type": "threshold",
