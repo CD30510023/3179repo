@@ -1,0 +1,325 @@
+"","State","levels","days"
+"1","Alabama","good",94591
+"2","Alabama","mod",38330
+"3","Alabama","haz",0
+"4","Alabama","unh",1294
+"5","Alabama","vun",128
+"6","Alabama","sen",6651
+"7","Alaska","good",49902
+"8","Alaska","mod",8600
+"9","Alaska","haz",19
+"10","Alaska","unh",435
+"11","Alaska","vun",61
+"12","Alaska","sen",1011
+"13","Arizona","good",78978
+"14","Arizona","mod",43481
+"15","Arizona","haz",147
+"16","Arizona","unh",4535
+"17","Arizona","vun",282
+"18","Arizona","sen",11363
+"19","Arkansas","good",66166
+"20","Arkansas","mod",17826
+"21","Arkansas","haz",0
+"22","Arkansas","unh",259
+"23","Arkansas","vun",11
+"24","Arkansas","sen",1822
+"25","California","good",422856
+"26","California","mod",193438
+"27","California","haz",548
+"28","California","unh",23936
+"29","California","vun",10058
+"30","California","sen",58436
+"31","Colorado","good",201423
+"32","Colorado","mod",64781
+"33","Colorado","haz",9
+"34","Colorado","unh",612
+"35","Colorado","vun",120
+"36","Colorado","sen",6730
+"37","Connecticut","good",63304
+"38","Connecticut","mod",22734
+"39","Connecticut","haz",0
+"40","Connecticut","unh",2002
+"41","Connecticut","vun",966
+"42","Connecticut","sen",5085
+"43","Country Of Mexico","good",3223
+"44","Country Of Mexico","mod",4271
+"45","Country Of Mexico","haz",63
+"46","Country Of Mexico","unh",614
+"47","Country Of Mexico","vun",269
+"48","Country Of Mexico","sen",1744
+"49","Delaware","good",22417
+"50","Delaware","mod",12818
+"51","Delaware","haz",0
+"52","Delaware","unh",900
+"53","Delaware","vun",204
+"54","Delaware","sen",3738
+"55","District Of Columbia","good",6348
+"56","District Of Columbia","mod",7122
+"57","District Of Columbia","haz",0
+"58","District Of Columbia","unh",336
+"59","District Of Columbia","vun",67
+"60","District Of Columbia","sen",1054
+"61","Florida","good",321278
+"62","Florida","mod",74905
+"63","Florida","haz",1
+"64","Florida","unh",1776
+"65","Florida","vun",45
+"66","Florida","sen",12516
+"67","Georgia","good",151778
+"68","Georgia","mod",64761
+"69","Georgia","haz",1
+"70","Georgia","unh",1983
+"71","Georgia","vun",398
+"72","Georgia","sen",8112
+"73","Hawaii","good",34900
+"74","Hawaii","mod",2052
+"75","Hawaii","haz",10
+"76","Hawaii","unh",3392
+"77","Hawaii","vun",71
+"78","Hawaii","sen",1922
+"79","Idaho","good",117461
+"80","Idaho","mod",22729
+"81","Idaho","haz",13
+"82","Idaho","unh",1602
+"83","Idaho","vun",63
+"84","Idaho","sen",3530
+"85","Illinois","good",239870
+"86","Illinois","mod",72802
+"87","Illinois","haz",0
+"88","Illinois","unh",3657
+"89","Illinois","vun",231
+"90","Illinois","sen",19648
+"91","Indiana","good",208823
+"92","Indiana","mod",97045
+"93","Indiana","haz",1
+"94","Indiana","unh",7143
+"95","Indiana","vun",313
+"96","Indiana","sen",29571
+"97","Iowa","good",106306
+"98","Iowa","mod",36600
+"99","Iowa","haz",0
+"100","Iowa","unh",1192
+"101","Iowa","vun",12
+"102","Iowa","sen",5673
+"103","Kansas","good",64367
+"104","Kansas","mod",15820
+"105","Kansas","haz",0
+"106","Kansas","unh",212
+"107","Kansas","vun",8
+"108","Kansas","sen",1932
+"109","Kentucky","good",206535
+"110","Kentucky","mod",77130
+"111","Kentucky","haz",0
+"112","Kentucky","unh",3287
+"113","Kentucky","vun",270
+"114","Kentucky","sen",17475
+"115","Louisiana","good",188762
+"116","Louisiana","mod",55209
+"117","Louisiana","haz",0
+"118","Louisiana","unh",1773
+"119","Louisiana","vun",181
+"120","Louisiana","sen",9468
+"121","Maine","good",104378
+"122","Maine","mod",17145
+"123","Maine","haz",0
+"124","Maine","unh",1128
+"125","Maine","vun",181
+"126","Maine","sen",5317
+"127","Maryland","good",108741
+"128","Maryland","mod",42788
+"129","Maryland","haz",0
+"130","Maryland","unh",3623
+"131","Maryland","vun",904
+"132","Maryland","sen",10114
+"133","Massachusetts","good",101181
+"134","Massachusetts","mod",39292
+"135","Massachusetts","haz",0
+"136","Massachusetts","unh",1750
+"137","Massachusetts","vun",438
+"138","Massachusetts","sen",8381
+"139","Michigan","good",181605
+"140","Michigan","mod",51040
+"141","Michigan","haz",1
+"142","Michigan","unh",2813
+"143","Michigan","vun",311
+"144","Michigan","sen",12693
+"145","Minnesota","good",151106
+"146","Minnesota","mod",31499
+"147","Minnesota","haz",1
+"148","Minnesota","unh",499
+"149","Minnesota","vun",10
+"150","Minnesota","sen",3270
+"151","Mississippi","good",77782
+"152","Mississippi","mod",25079
+"153","Mississippi","haz",0
+"154","Mississippi","unh",403
+"155","Mississippi","vun",12
+"156","Mississippi","sen",3404
+"157","Missouri","good",128659
+"158","Missouri","mod",52879
+"159","Missouri","haz",1
+"160","Missouri","unh",3366
+"161","Missouri","vun",206
+"162","Missouri","sen",12774
+"163","Montana","good",132838
+"164","Montana","mod",25690
+"165","Montana","haz",21
+"166","Montana","unh",1989
+"167","Montana","vun",45
+"168","Montana","sen",6160
+"169","Nebraska","good",49524
+"170","Nebraska","mod",9927
+"171","Nebraska","haz",0
+"172","Nebraska","unh",52
+"173","Nebraska","vun",27
+"174","Nebraska","sen",495
+"175","Nevada","good",59118
+"176","Nevada","mod",22660
+"177","Nevada","haz",34
+"178","Nevada","unh",390
+"179","Nevada","vun",66
+"180","Nevada","sen",3368
+"181","New Hampshire","good",64055
+"182","New Hampshire","mod",16549
+"183","New Hampshire","haz",0
+"184","New Hampshire","unh",801
+"185","New Hampshire","vun",59
+"186","New Hampshire","sen",5033
+"187","New Jersey","good",142427
+"188","New Jersey","mod",55995
+"189","New Jersey","haz",0
+"190","New Jersey","unh",4381
+"191","New Jersey","vun",1312
+"192","New Jersey","sen",11267
+"193","New Mexico","good",99772
+"194","New Mexico","mod",32986
+"195","New Mexico","haz",73
+"196","New Mexico","unh",1337
+"197","New Mexico","vun",102
+"198","New Mexico","sen",5666
+"199","New York","good",246271
+"200","New York","mod",74615
+"201","New York","haz",0
+"202","New York","unh",3879
+"203","New York","vun",693
+"204","New York","sen",18419
+"205","North Carolina","good",232040
+"206","North Carolina","mod",86012
+"207","North Carolina","haz",0
+"208","North Carolina","unh",3404
+"209","North Carolina","vun",265
+"210","North Carolina","sen",15275
+"211","North Dakota","good",105340
+"212","North Dakota","mod",9825
+"213","North Dakota","haz",0
+"214","North Dakota","unh",256
+"215","North Dakota","vun",2
+"216","North Dakota","sen",1528
+"217","Ohio","good",299142
+"218","Ohio","mod",128466
+"219","Ohio","haz",2
+"220","Ohio","unh",7733
+"221","Ohio","vun",663
+"222","Ohio","sen",36607
+"223","Oklahoma","good",113550
+"224","Oklahoma","mod",36313
+"225","Oklahoma","haz",0
+"226","Oklahoma","unh",907
+"227","Oklahoma","vun",38
+"228","Oklahoma","sen",5705
+"229","Oregon","good",162454
+"230","Oregon","mod",39371
+"231","Oregon","haz",101
+"232","Oregon","unh",778
+"233","Oregon","vun",114
+"234","Oregon","sen",2883
+"235","Pennsylvania","good",276189
+"236","Pennsylvania","mod",129333
+"237","Pennsylvania","haz",7
+"238","Pennsylvania","unh",8028
+"239","Pennsylvania","vun",1100
+"240","Pennsylvania","sen",30666
+"241","Puerto Rico","good",64437
+"242","Puerto Rico","mod",8074
+"243","Puerto Rico","haz",3
+"244","Puerto Rico","unh",130
+"245","Puerto Rico","vun",8
+"246","Puerto Rico","sen",718
+"247","Rhode Island","good",23227
+"248","Rhode Island","mod",7169
+"249","Rhode Island","haz",0
+"250","Rhode Island","unh",408
+"251","Rhode Island","vun",126
+"252","Rhode Island","sen",1351
+"253","South Carolina","good",115243
+"254","South Carolina","mod",38166
+"255","South Carolina","haz",0
+"256","South Carolina","unh",943
+"257","South Carolina","vun",37
+"258","South Carolina","sen",5734
+"259","South Dakota","good",54914
+"260","South Dakota","mod",8394
+"261","South Dakota","haz",2
+"262","South Dakota","unh",9
+"263","South Dakota","vun",1
+"264","South Dakota","sen",155
+"265","Tennessee","good",151378
+"266","Tennessee","mod",65503
+"267","Tennessee","haz",1
+"268","Tennessee","unh",4223
+"269","Tennessee","vun",223
+"270","Tennessee","sen",20518
+"271","Texas","good",287848
+"272","Texas","mod",89943
+"273","Texas","haz",17
+"274","Texas","unh",5704
+"275","Texas","vun",1189
+"276","Texas","sen",18926
+"277","Utah","good",76649
+"278","Utah","mod",39341
+"279","Utah","haz",2
+"280","Utah","unh",1492
+"281","Utah","vun",111
+"282","Utah","sen",6679
+"283","Vermont","good",35244
+"284","Vermont","mod",5976
+"285","Vermont","haz",0
+"286","Vermont","unh",80
+"287","Vermont","vun",3
+"288","Vermont","sen",618
+"289","Virgin Islands","good",13198
+"290","Virgin Islands","mod",2719
+"291","Virgin Islands","haz",0
+"292","Virgin Islands","unh",25
+"293","Virgin Islands","vun",0
+"294","Virgin Islands","sen",433
+"295","Virginia","good",212293
+"296","Virginia","mod",59973
+"297","Virginia","haz",0
+"298","Virginia","unh",2569
+"299","Virginia","vun",319
+"300","Virginia","sen",11396
+"301","Washington","good",225569
+"302","Washington","mod",49288
+"303","Washington","haz",66
+"304","Washington","unh",1530
+"305","Washington","vun",157
+"306","Washington","sen",6731
+"307","West Virginia","good",94786
+"308","West Virginia","mod",40680
+"309","West Virginia","haz",0
+"310","West Virginia","unh",3523
+"311","West Virginia","vun",87
+"312","West Virginia","sen",16835
+"313","Wisconsin","good",202580
+"314","Wisconsin","mod",48831
+"315","Wisconsin","haz",0
+"316","Wisconsin","unh",3862
+"317","Wisconsin","vun",464
+"318","Wisconsin","sen",13104
+"319","Wyoming","good",101417
+"320","Wyoming","mod",22593
+"321","Wyoming","haz",29
+"322","Wyoming","unh",120
+"323","Wyoming","vun",16
+"324","Wyoming","sen",745
